@@ -12,9 +12,10 @@ body {
 }
 
 #loveHeart {
-	float: left;
+	/* float: left; */
 	width:670px;
 	height:625px;
+	margin: 0 auto;
 }
 
 #garden {
